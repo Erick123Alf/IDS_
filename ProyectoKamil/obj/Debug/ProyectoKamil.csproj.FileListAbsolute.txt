@@ -1,0 +1,13 @@
+E:\Carrera\Programacion III\Archivos\ProyectoKamil\bin\Debug\ProyectoKamil.exe.config
+E:\Carrera\Programacion III\Archivos\ProyectoKamil\bin\Debug\ProyectoKamil.exe
+E:\Carrera\Programacion III\Archivos\ProyectoKamil\bin\Debug\ProyectoKamil.pdb
+E:\Carrera\Programacion III\Archivos\ProyectoKamil\obj\Debug\ProyectoKamil.csproj.AssemblyReference.cache
+E:\Carrera\Programacion III\Archivos\ProyectoKamil\obj\Debug\ProyectoKamil.Form1.resources
+E:\Carrera\Programacion III\Archivos\ProyectoKamil\obj\Debug\ProyectoKamil.Form2.resources
+E:\Carrera\Programacion III\Archivos\ProyectoKamil\obj\Debug\ProyectoKamil.Properties.Resources.resources
+E:\Carrera\Programacion III\Archivos\ProyectoKamil\obj\Debug\ProyectoKamil.csproj.GenerateResource.cache
+E:\Carrera\Programacion III\Archivos\ProyectoKamil\obj\Debug\ProyectoKamil.csproj.CoreCompileInputs.cache
+E:\Carrera\Programacion III\Archivos\ProyectoKamil\obj\Debug\ProyectoKamil.exe
+E:\Carrera\Programacion III\Archivos\ProyectoKamil\obj\Debug\ProyectoKamil.pdb
+E:\Carrera\Programacion III\Archivos\ProyectoKamil\obj\Debug\ProyectoKamil.Form3.resources
+E:\Carrera\Programacion III\Archivos\ProyectoKamil\obj\Debug\ProyectoKamil.Form4.resources
